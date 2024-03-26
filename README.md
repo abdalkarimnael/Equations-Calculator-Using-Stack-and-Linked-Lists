@@ -14,7 +14,9 @@ This program implements a calculator system that reads equations from an input f
 Features:
 ---
 1- Read Equations: Read equations from a user-provided input file.
+(Line break)
 2- Check Validity: Check the validity of equations, indicating whether they are valid or not. Invalid equations are accompanied by specific error messages.
+
 3- Convert to Prefix: Convert valid equations from infix to prefix notation and print the prefix expressions.
 4- Evaluate Prefix Expressions: Evaluate the prefix expressions and print the results of each equation on a separate line.
 5- Print Invalid Equations: Print all invalid equations from the input file.

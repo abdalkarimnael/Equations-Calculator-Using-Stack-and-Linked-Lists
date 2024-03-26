@@ -1,15 +1,15 @@
 # Equations-Calculator-Using-Stack-and-Linked-List
 
 This program is the second project in Data Structure and Algorithms Course. It implements a calculator system that reads equations from an input file to be evaluated. The input file can contain an unspecified number of equations written in infix form. For example:
-***
+
 2+(14-9)+4*[6+(7+5)-1]
----
+
 2+(14-9)+4[6+(8+5)-1]  
----
+
 2+(14-9)+4*[6+(7+5-1] 
----
+
 2+(5-3)
----
+
 ****
 Features:
 ---
